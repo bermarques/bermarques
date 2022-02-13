@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 [![Social banner for bermarques](https://github.com/bermarques/bermarques/raw/main/assets/banner.png)](https://github.com/bermarques)
-=======
-h[![Social banner for bermarques](https://github.com/bermarques/bermarques/raw/main/assets/banner.png)](https://github.com/bermarques)
->>>>>>> 7ef73db87df9d41b0896f3cb0a1a5e1d2db673b1
 
 <h1 align="middle">Hello 👋</h1>
 <p>I'm Bernardo Marques, I'm a mid level developer that know how to deal with both front and back end, but I'm mainly focused on the front end because I love the visual aspect of everything.</p>
@@ -22,24 +18,14 @@ h[![Social banner for bermarques](https://github.com/bermarques/bermarques/raw/m
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-<<<<<<< HEAD
 </p>
 
 </br>
 <h3 align="left">Back-end</h3>
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-=======
-
-</br>
-<h3 align="left">Back-end</h3>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
->>>>>>> 7ef73db87df9d41b0896f3cb0a1a5e1d2db673b1
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<<<<<<< HEAD
 </p>
-=======
->>>>>>> 7ef73db87df9d41b0896f3cb0a1a5e1d2db673b1
