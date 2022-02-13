@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 [![Social banner for bermarques](https://github.com/bermarques/bermarques/raw/main/assets/banner.png)](https://github.com/bermarques)
+=======
+[![Social banner for bermarques](https://github.com/bermarques/bermarques/raw/master/assets/banner.png)](https://github.com/bermarques)
+>>>>>>> 86b5aadf4f2503cef5ba5dc5a6c3778ac8aee5a5
 
 ### Hello 👋
 
