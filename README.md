@@ -1,4 +1,6 @@
-### Hi there 👋
+[![Social banner for bermarques](https://github.com/bermarques/bermarques/raw/master/assets/banner.png)](https://github.com/bermarques)
+
+### Hello 👋
 
 <!--
 **bermarques/bermarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
