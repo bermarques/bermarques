@@ -17,7 +17,7 @@ I'm a passionate full-stack developer with a primary focus on front-end developm
 ![Angular](https://img.shields.io/badge/-angular-b52e31?style=for-the-badge&logo=angular&labelColor=0D1117)
 ![Angular](https://img.shields.io/badge/-ionic-3e82ff?style=for-the-badge&logo=ionic&labelColor=0D1117)
 
-I’m currently pursuing a Bachelor's degree in Software Development at [Brigham Young University - Idaho](byui.edu), expecting to graduate in 2027. Besides English, I also speak Portuguese (native) and Spanish, and I’m learning Swedish
+I’m currently pursuing a Bachelor's degree in Software Development at [Brigham Young University - Idaho](https://www.byui.edu), expecting to graduate in 2027. Besides English, I also speak Portuguese (native) and Spanish, and I’m learning Swedish
 
 Feel free to connect with me on LinkedIn or explore my repositories here to see what I've been working on!
 
