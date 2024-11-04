@@ -1,31 +1,24 @@
-[![Social banner for bermarques](https://github.com/bermarques/bermarques/raw/main/assets/banner.png)](https://github.com/bermarques)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=e53935&textBg=false&reversal=true"/>
 
-<h1 align="middle">Hello 👋</h1>
-<p>I'm Bernardo Marques, I'm a mid level developer that know how to deal with both front and back end, but I'm mainly focused on the front end because I love the visual aspect of everything.</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f7f5f5&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Bernardo+Marques;Nice+to+meet+you!+:%29)](https://git.io/typing-svg)
 
-</br>
-<h2 align="middle">Languages and Tools:</h2>
-</br>
-<h3 align="left">Front-end </h3>
-</br>
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-</p>
+<div align="center" />
 
-</br>
-<h3 align="left">Back-end</h3>
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</p>
+<div> 
+
+ <a href = "mailto:bernardohmarques@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bermarques" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+I'm a passionate full-stack developer with a primary focus on front-end development. My journey in tech has been driven by a deep love for clean, efficient structures and a relentless pursuit of optimizations in every project I work on. I thrive on learning new things and continuously honing my skills to deliver high-qualiy applications.
+
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&labelColor=0D1117)
+![Node.js](https://img.shields.io/badge/-Node.js-215732?style=for-the-badge&logo=node.js&labelColor=000000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&labelColor=0D1117)
+![Angular](https://img.shields.io/badge/-angular-b52e31?style=for-the-badge&logo=angular&labelColor=0D1117)
+![Angular](https://img.shields.io/badge/-ionic-3e82ff?style=for-the-badge&logo=ionic&labelColor=0D1117)
+
+I’m currently pursuing a Bachelor's degree in Software Development at [Brigham Young University - Idaho](byui.edu), expecting to graduate in 2027. Besides English, I also speak Portuguese (native) and Spanish, and I’m learning Swedish
+
+Feel free to connect with me on LinkedIn or explore my repositories here to see what I've been working on!
+
+</div>
