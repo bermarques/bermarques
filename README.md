@@ -9,7 +9,7 @@
  <a href = "mailto:bernardohmarques@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bermarques" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-I'm a passionate full-stack developer with a primary focus on front-end development. My journey in tech has been driven by a deep love for clean, efficient structures and a relentless pursuit of optimizations in every project I work on. I thrive on learning new things and continuously honing my skills to deliver high-qualiy applications.
+I'm a full-stack developer with a primary focus on front-end development. My journey in tech has been driven by a deep love for clean, efficient structures and a relentless pursuit of optimizations in every project I work on. I thrive on learning new things and continuously honing my skills to deliver high-qualiy applications.
 
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&labelColor=0D1117)
 ![Node.js](https://img.shields.io/badge/-Node.js-215732?style=for-the-badge&logo=node.js&labelColor=000000)
